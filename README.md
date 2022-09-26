@@ -30,13 +30,17 @@
     一般编辑器：
       Odin(方便，理由略)
     节点编辑器：
-      
-    
-    
+      NodeGraphProcessor
+      xNode
+      Node_Editor_Framework
+  渲染：
+    目前直接用的lilToon，用于二次元人物渲染
+  
 美术：
-
+  由于是学习用，所以用的Unity官方资源或者一些网络资源
 
 策划：
+  自己来
 
 
 
