@@ -36,7 +36,7 @@
 ### 编辑器：
 - 节点：1：NodeGraphProcessor；***2：xNode***；3：Node_Editor_Framework
 - 一般：Odin(方便，理由略)
-- 剧情：***1：Slate Cinematic Sequencer***；2：Timeline+Playable
+- 时间轴：***1：Slate Cinematic Sequencer***；2：Timeline+Playable
   - 案例：
     - 【天涯明月刀】据调查使用2；
     - 【斗罗大陆·魂师对决】根据分享使用2；
